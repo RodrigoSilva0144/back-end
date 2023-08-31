@@ -1,0 +1,26 @@
+{
+    "usuarios":[
+        {
+            "id": 1,
+            "nome": "Gallo Boy",
+            "email": "gallo@boy.com",
+            "senha": "123123" 
+        },
+
+        {
+            "id": 2,
+            "nome": "Marcio Burguer",
+            "email": "marcio@burguer.com",
+            "senha": "xTudo"
+        }
+    ],
+    "produtos":[
+        {
+            "id": 1,
+            "nome": "Café",
+            "descrição": "Café tipo arábica",
+            "validade": "2024-12-31",
+            "preco": 16.59
+        }
+    ]
+}
